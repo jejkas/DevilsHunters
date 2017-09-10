@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: DevilsHunters
+## Notes: DevilsHunters
+## Author: rexas - rexas.tv
+## Version: 1.0
+## SavedVariablesPerCharacter: DevilsHunters_Settings
+DevilsHunters.lua
